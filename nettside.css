@@ -1,0 +1,112 @@
+	.header {
+       padding: 10px;
+       text-align: left;
+       background: red;
+       color: white;
+       font-size: 25px;
+      
+    }
+
+	#overskrift{
+		text-align: center;
+		margin-top: 10px;
+		color: red;
+		font-family: 'Brush Script MT';
+		font-size: 50px;
+	}
+
+	#menyliste{
+		text-align: center;
+		padding-top:0px;
+		font-size: 40px;
+		height: auto;
+		margin: 0;
+	}
+
+	#allergier{
+		font-size: 20px;
+		text-align: center;
+		padding-top:0px;
+		height: auto;
+		margin: 0;
+	}
+
+	#tekst{
+		text-align: center;
+	}
+
+	#frokost{
+		text-align: center;
+		font-size: 30px;
+		background-image: url(pannekaker.avif);
+		background-repeat: no-repeat;
+		color: white;
+		
+		
+
+		
+		background-size: 100%;
+	}
+
+	#middag{
+		text-align: center;
+		font-size: 30px;
+		color: white;
+		background-image: url(pizza1.avif);
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+	#snacks{
+		text-align: center;
+		font-size: 30px;
+		background-image: url(fries.avif);
+		background-repeat: no-repeat;
+		color: white;
+		
+		background-size: 100%;
+		
+
+	}
+
+	.nedeHeader{
+		padding: 30px;
+		width: 100%;
+
+       text-align: left;
+       background: grey;
+       color: white;
+       display: flex;
+       justify-content: space-between;
+
+	}
+
+	
+
+	
+  .logo{
+		text-align: right;
+		margin-top: 10px;
+		color: white;
+		font-family: 'Brush Script MT';
+		font-size: 40px;
+	}
+
+
+	.layer {
+		background-color: rgba(0, 0, 0, 0.459);
+	}
+
+	.layer1 {
+		background-color: rgba(0, 0, 0, 0.459);
+	}
+
+	.layer2 {
+		background-color: rgba(0, 0, 0, 0.459);
+	}
+
+	abbr{
+		font-size: 20px;
+	}
+
+	
